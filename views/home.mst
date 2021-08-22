@@ -1,0 +1,9 @@
+{{>header}}
+
+{{>subHome}}
+
+<h1>Pagina Home</h1>
+
+{{>conteudo}}
+
+{{>rodape}}
